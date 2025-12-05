@@ -1,0 +1,10 @@
+INSERT INTO product (title, price, stock) VALUES ('Wireless Bluetooth Earbuds', 1499.00, 120);
+INSERT INTO product (title, price, stock) VALUES ('Smartphone Back Cover', 299.00, 450);
+INSERT INTO product (title, price, stock) VALUES ('USB-C Fast Charger 25W', 799.00, 200);
+INSERT INTO product (title, price, stock) VALUES ('Gaming Keyboard RGB', 2499.00, 75);
+INSERT INTO product (title, price, stock) VALUES ('Noise Cancelling Headphones', 3499.00, 40);
+INSERT INTO product (title, price, stock) VALUES ('Portable Power Bank 20000mAh', 1999.00, 95);
+INSERT INTO product (title, price, stock) VALUES ('Smart LED Bulb', 499.00, 300);
+INSERT INTO product (title, price, stock) VALUES ('Adjustable Laptop Stand', 999.00, 150);
+INSERT INTO product (title, price, stock) VALUES ('Wireless Mouse', 599.00, 350);
+INSERT INTO product (title, price, stock) VALUES ('Fitness Smartwatch', 2999.00, 60);
